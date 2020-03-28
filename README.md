@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<!-- 收账系统 收银系统-->
 
 ## Available Scripts
+<!-- 收账系统 -->
 
 In the project directory, you can run:
 
